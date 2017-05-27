@@ -1,0 +1,11 @@
+[package]
+name = "sensorweb_node_mcu_collector"
+version = "0.1.0"
+authors = ["Alexandre Lissy <lissyx@lissyx.dyndns.org>"]
+
+[dependencies]
+clap = "*"
+log = "*"
+simplelog = "*"
+hyper = "*"
+websocket = "*"
